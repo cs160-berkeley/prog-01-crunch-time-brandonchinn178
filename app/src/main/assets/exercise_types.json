@@ -1,0 +1,50 @@
+{
+  "Pushups": {
+    "units": "reps",
+    "amount": 350
+  },
+  "Situps": {
+    "units": "reps",
+    "amount": 200
+  },
+  "Squats": {
+    "units": "reps",
+    "amount": 225
+  },
+  "Leg-lifts": {
+    "units": "mins",
+    "amount": 25
+  },
+  "Planks": {
+    "units": "mins",
+    "amount": 25
+  },
+  "Jumping Jacks": {
+    "units": "mins",
+    "amount": 10
+  },
+  "Pullups": {
+    "units": "reps",
+    "amount": 100
+  },
+  "Cycling": {
+    "units": "mins",
+    "amount": 12
+  },
+  "Walking": {
+    "units": "mins",
+    "amount": 20
+  },
+  "Jogging": {
+    "units": "mins",
+    "amount": 12
+  },
+  "Swimming": {
+    "units": "mins",
+    "amount": 13
+  },
+  "Stair-Climbing": {
+    "units": "mins",
+    "amount": 15
+  }
+}

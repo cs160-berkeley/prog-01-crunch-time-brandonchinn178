@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calorie Converter</string>
+    <string name="action_settings">Settings</string>
+    <string name="output_label_calories">calories burned</string>
+    <string name="output_label_reps">reps needed</string>
+    <string name="output_label_minutes">minutes needed</string>
+    <string name="input_button_label">Calculate</string>
+    <string name="timer_start_label">Start</string>
+    <string name="timer_stop_label">Stop</string>
+</resources>
